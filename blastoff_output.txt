@@ -1,0 +1,40 @@
+Python 3.7.8 (tags/v3.7.8:4b47a5b6ba, Jun 28 2020, 08:53:46) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============ RESTART: C:/Users/ANPINK (Business)/Desktop/blastoff.py ===========
+Enter a positive or negative number: -10
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+Blastoff!
+>>> 
+============ RESTART: C:/Users/ANPINK (Business)/Desktop/blastoff.py ===========
+Enter a positive or negative number: 15
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Blastoff!
+>>> 
+============ RESTART: C:/Users/ANPINK (Business)/Desktop/blastoff.py ===========
+Enter a positive or negative number: 0
+Blastoff!
+>>> 
